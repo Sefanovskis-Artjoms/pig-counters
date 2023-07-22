@@ -1,5 +1,5 @@
 # pig-counters
 
-Initialy a real small project for meat factory, but after some events on their side, they decided that they dont want/need this procect. And as I already begun developing it, I decided to finish it just for fun(I also didn't botrher much on some details)
+Initially a real small project for a meat factory, but after some events on their side, they decided that they don't want/need this project. And as I have already begun developing it, I decided to finish it just for fun(after that I also didn't bother much with some details)
 <br>
-The goal of the project is to cout occurances of different foreighn objects in differents parts of a pig carcas with the added function to view reports of the past days.
+The project's goal is to count occurrences of different foreign objects in different parts of a pig carcass with the added function of viewing reports of the past days.
